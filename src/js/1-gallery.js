@@ -81,7 +81,7 @@ const galleryMarkup = images
         />
       </a>
     </li>
-  `,
+  `
   )
   .join('');
 
